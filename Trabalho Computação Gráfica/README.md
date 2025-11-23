@@ -51,7 +51,7 @@ Tecla / Ação Função
 * **Linguagem C:** Lógica principal.
 * **OpenGL / GLU:** Renderização gráfica e pipeline fixo.
 * **FreeGLUT:** Gerenciamento de janelas e input.
-* **fast_obj:** Biblioteca header-only para parsing rápido e robusto de arquivos OBJ.
+* **fast_obj:** Biblioteca para parsing rápido e robusto de arquivos OBJ.
 * **stb_image:** Biblioteca header-only para carregamento de imagens (PNG/JPG).
 
 ### Desenvolvido por Daniel Lessa De Carvalho.
