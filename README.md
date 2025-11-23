@@ -1,1 +1,3 @@
-# Repositório para projetos e trabalhos da disciplina de Computação Gráfica. (Ciência da Computação - UERJ)
+# Computação Gráfica - UERJ 🖥️
+
+Este repositório armazena os trabalhos da disciplina de Computação Gráfica. 
